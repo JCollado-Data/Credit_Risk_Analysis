@@ -1,7 +1,7 @@
 # Credit_Risk_Analysis
 
 ## Overview
-The purpose of this project was to examine the Credit Risk. We evaluate the data and cluster and sample the data to identify trends.
+The purpose of this project was to examine the Credit Risk. We evaluate the data and cluster and sample it to identify trends.
 
 ## Results
 ### Naive Random Oversampling
